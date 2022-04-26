@@ -1,0 +1,6 @@
+module Pods_20220426_VineelaJanjirala_NYCSchools {
+  umbrella header "Pods-20220426-VineelaJanjirala-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}
